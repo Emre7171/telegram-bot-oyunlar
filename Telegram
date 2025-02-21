@@ -1,0 +1,25 @@
+/telegram-bot-oyunlar
+│── /Oyunlar
+│   ├── /Kelime_Oyunu
+│   │   ├── kelime_oyunu.json
+│   ├── /Matematik_Oyunu
+│   │   ├── matematik_oyunu.json
+│   ├── /Ağaç_Kesme
+│   │   ├── agac_kesme.json
+│   ├── /Futbol_Tahmin
+│   │   ├── futbol_tahmin.json
+│   ├── /Zeka_Sorusu
+│   │   ├── zeka_sorusu.json
+│   ├── /Hafiza_Oyunu
+│   │   ├── hafiza_oyunu.json
+│   ├── /Renk_Eslestirme
+│   │   ├── renk_eslestirme.json
+│   ├── /Sayi_Tahmin
+│   │   ├── sayi_tahmin.json
+│   ├── /Bulmaca_Oyunu
+│   │   ├── bulmaca_oyunu.json
+│   ├── /Hiz_Testi
+│   │   ├── hiz_testi.json
+│   ├── ... (Diğer 80 oyun) ...
+│── README.md
+│── .gitignore
